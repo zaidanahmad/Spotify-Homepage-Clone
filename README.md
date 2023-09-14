@@ -1,2 +1,2 @@
 # Spotify-Homepage-Clone
-This is Spotify-Clone (Homepage only) using HTML &amp; CSS.
+This is Spotify-Clone (Homepage only) using HTML &amp; Vanilla CSS.
