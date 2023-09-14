@@ -345,6 +345,10 @@ a {
     justify-content: center;
 }
 
+.controls-2 i:hover {
+    opacity: 1;
+}
+
 .mic i {
     font-size: 1.1rem;
     margin: 0.5rem;
